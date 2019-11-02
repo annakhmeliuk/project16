@@ -1,0 +1,162 @@
+1.content1 {
+    width: 100%;
+    height: 452px;
+    /*border: 1px solid red;*/
+    position: relative;
+    margin: 0;
+}
+.text1 {
+    position: relative;
+    text-align: center;
+    top: 100px;
+}
+
+div.text-align2, div.text-align3, div.text-align4 {
+    width: 450px;
+    height: 271.5px;
+    text-align: justify;
+    margin-left: 40px;
+}
+.title1, .title2, .title3, .title4 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: gray;
+}
+img.icon2 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 25px;
+} 
+img.icon3, img.icon4, img.icon1 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 25px;
+    padding-top: 35px;
+}
+p {
+    color: gray;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 35px ;
+}
+.wrapper {
+    position: relative;
+}
+.triangle-down {
+    width: 0;
+	height: 0;
+	border-left: 10px solid transparent;
+	border-right: 10px solid transparent;
+    border-top: 10px solid white;
+    position: absolute;
+    left: 263px;
+    
+}
+.main-content {
+    width: 100%;
+    height: 1800px;
+    
+    /*border: 1px solid red;
+    position: relative;
+    margin: 0;*/
+}
+.row1, .row2, .row3 {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    
+}
+.size1 {
+    width: 532px;
+    height: 600px;
+}
+.size2 {
+    width: 534px;
+    height: 600px;
+     
+}
+.size3 {
+    width: 532px;
+    height: 600px;
+}    
+a {
+    color: gray;
+}
+.slider {
+    width: 100%;
+    height: 469px;
+}
+.bottom-content {
+    width: 100%;
+    height: 534px;
+}
+.line { 
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+div.shop-button {
+    width: 100%;
+    height: 199px;
+    background: black;
+    position: relative;
+}
+.shop {
+    height: 50px;
+    width: 300px;
+    border: 1px solid white;
+    background-color: black;
+    color: white;
+    position: absolute;
+    margin: 0;
+    left: 650px;
+    top: 75px;   
+}
+.subscription {
+    width: 100%;
+    height: 450px;
+    padding-top: 150px;    
+}
+.logo-bottom {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+.text-bottom {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+.input {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.email {
+    height: 71px;
+    width: 375px;
+    font-size: 18px;
+    color: grey;
+}
+input.address {
+    padding-left: 25px;
+}
+.go {
+    height: 77px;
+    width: 125px;
+    background: rgb(35, 226, 169);
+    color: white;
+    font-size: 24px;
+    border: rgb(35, 226, 169);
+    margin-left: 10px;
+}
+.footer {
+    height: 264px;
+    width: 100%;
+    background: lightgray;
+}
